@@ -1,0 +1,9 @@
+# Local secrets/config
+config.env
+credentials.json
+token*.json
+
+# Local runtime data
+sync_db.json
+__pycache__/
+.venv/
